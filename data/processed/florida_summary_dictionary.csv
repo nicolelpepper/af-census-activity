@@ -1,0 +1,9 @@
+Column Name,Label
+GEOID,Unique Census Tract identifier
+DP05_0001E,Total population estimate
+DP05_0037PE,Percent White alone
+DP05_0071PE,Percent Hispanic or Latino
+pct_forest_cover,Percent forest land cover
+trees_per_capita,Tree-equivalent units per person (assume a tree is 600sq-ft)
+public_school_ratio,Proportion of schools that are public
+schools_per_capita,Schools per person
