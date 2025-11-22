@@ -26,11 +26,9 @@ af-census-activity/
 ```
 ### Dependencies & Running the Code:
 
-**Data:** The original, raw data for the project were not pushed to GitHub, raw files can be downloaded [here](https://amfor.sharepoint.com/sites/GISTech/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGISTech%2FShared%20Documents%2FGeneral%2FAdmin%2FHiring%2FFY26%5FGeospatialDataScientist%2Ftechnical%20exercise%2Fdata%5FNPepper&p=true&ga=1) and should be stored in a /raw subfolder within the /data folder.
-
-**Environment:** This project uses a conda environment defined in `environment.yml` in the primary project folder.
-
-**Run the Code:** To run the code open the `af-census-activity.ipynb` and run all cells. 
+- **Data:** The original, raw data for the project were not pushed to GitHub, raw files can be downloaded [here](https://amfor.sharepoint.com/sites/GISTech/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGISTech%2FShared%20Documents%2FGeneral%2FAdmin%2FHiring%2FFY26%5FGeospatialDataScientist%2Ftechnical%20exercise%2Fdata%5FNPepper&p=true&ga=1) and should be stored in a /raw subfolder within the /data folder.
+- **Environment:** This project uses a conda environment defined in `environment.yml` in the primary project folder.
+- **Run the Code:** To run the code open the `af-census-activity.ipynb` and run all cells. 
 
 ### Data Sources *(Provided by American Forests)*
 - U.S. Census Bureau *TIGER/line Shapefiles: Census Tracts*
